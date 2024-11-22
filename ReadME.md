@@ -37,7 +37,8 @@ Includes the following test classes:
 ### Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/naim1115/SoftwareEngineeringHW4.git
+
 cd SoftwareEngineeringHW4
 ```
 
